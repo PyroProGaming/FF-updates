@@ -1,5 +1,5 @@
-GitHub Test
+Version (0.0.0)
 
-I saw this on dave fun algebra class i thought it was cool
+I am working on it :D
 
--pyro
+new features are soon
