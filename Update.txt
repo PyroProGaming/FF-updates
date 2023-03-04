@@ -1,7 +1,1 @@
-Version (0.0.4)
-
-Hey, Jiggilibu, Hash or Yem!
-
-I added some cool stuff for you to playtest ok thx
-
--pyro
+hello fucker
