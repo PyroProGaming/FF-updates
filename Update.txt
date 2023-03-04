@@ -1,5 +1,7 @@
-Version (0.0.0)
+Version (0.0.4)
 
-I am working on it :D
+Hey, Jiggilibu, Hash or Yem!
 
-new features are soon
+I added some cool stuff for you to playtest ok thx
+
+-pyro
